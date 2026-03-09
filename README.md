@@ -1,12 +1,29 @@
-# CODSOFT
-Machine Learning Internship tasks completed as part of CodSoft Internship. Includes Spam SMS Detection, Customer Churn Prediction, and Movie Genre Classification using Python and Scikit-learn.
-# CodSoft Machine Learning Internship
+# CODSOFT Machine Learning Internship
 
-This repository contains the tasks completed as part of the CodSoft Machine Learning Internship.
+This repository contains the tasks completed during my Machine Learning Internship at CODSOFT.
 
-## Tasks
+## Tasks Completed
 
-### Task 4: Spam SMS Detection
-A machine learning model that classifies SMS messages as spam or not spam using TF-IDF vectorization and Naive Bayes classifier.
+### 1. Spam SMS Detection
 
-More tasks will be added as part of this internship.
+Built a machine learning model to classify SMS messages as spam or ham using text preprocessing and classification algorithms.
+
+### 2. Customer Churn Prediction
+
+Developed a predictive model to determine whether a customer will churn based on customer data.
+
+### 3. Movie Genre Classification
+
+Created a text classification model that predicts a movie's genre based on its plot description using TF-IDF and machine learning algorithms.
+
+## Tools & Technologies
+
+* Python
+* Pandas
+* Scikit-learn
+* TF-IDF Vectorization
+* Machine Learning Models
+
+## Author
+
+Machine Learning Internship – CODSOFT
